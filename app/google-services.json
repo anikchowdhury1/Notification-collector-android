@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "732745554483",
+    "firebase_url": "https://testdemo-5464c.firebaseio.com",
+    "project_id": "testdemo-5464c",
+    "storage_bucket": "testdemo-5464c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732745554483:android:ce7719413009e35a",
+        "android_client_info": {
+          "package_name": "concitus.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732745554483-q122hlbbqir8tmvsdno5tthdt08vaaoi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "732745554483-q122hlbbqir8tmvsdno5tthdt08vaaoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_qb19CwhzLdIIjbHx1SryI8ZFZEI0bsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
